@@ -1,0 +1,28 @@
+{
+  "name": "vmd-loader",
+  "version": "0.0.1",
+  "description": "markdown file to vue component loader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sosout/vmd-loader.git"
+  },
+  "keywords": [
+    "vue",
+    "markdown",
+    "webpack",
+    "loader"
+  ],
+  "author": "Wei Changhua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sosout/vmd-loader/issues"
+  },
+  "homepage": "https://github.com/sosout/vmd-loader#readme",
+  "peerDependencies": {
+    "vue-loader": ">=10.0.0"
+  }
+}
